@@ -1,4 +1,4 @@
-# CodéCraft Course Hub
+# CodéCraft
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-blue?logo=github)
 
@@ -10,9 +10,7 @@
 
 คลิกดูหน้าเว็บออนไลน์ได้ที่:
 
-**https://YourUsername.github.io/codexcraft-course-hub**
-
-(อัปเดต `YourUsername` ตามชื่อ GitHub ของคุณ)
+**(https://escarabajox.github.io/codecraft/)**
 
 ---
 
@@ -42,12 +40,8 @@
 Project Courses Default/
 │
 ├── base.html               # Layout หลัก (Navbar, Footer)
-├── base.css                # สไตล์ Global (ฟอนต์, สีพื้นฐาน)
-├── courses.css             # สไตล์เฉพาะหน้าเรียน (pixel-text, banners)
 ├── login.html              # Mockup หน้าเข้าสู่ระบบ
-├── login.css               # สไตล์หน้า Login
 ├── signup.html             # Mockup หน้าสมัครสมาชิก
-├── signup.css              # สไตล์หน้า Signup
 ├── pricing.html            # หน้า Pricing Overview
 ├── practice.html           # หน้า Practice Exercises
 ├── HTML.html               # บทเรียน HTML Basics
@@ -62,7 +56,15 @@ Project Courses Default/
 ├── SQL.html                # บทเรียน SQL & Databases
 ├── CommandLine.html        # บทเรียน Command Line Usage
 ├── Github.html             # บทเรียน Git & GitHub Workflows
+└── css/
+    ├── base.css            # สไตล์ Global (ฟอนต์, สีพื้นฐาน)
+    ├── courses.css         # สไตล์เฉพาะหน้าเรียน (pixel-text, banners)
+    ├── login.css           # สไตล์หน้า Login
+    └── signup.css          # สไตล์หน้า Signup
 └── pics/                   # โฟลเดอร์รูปภาพ
+    ├── avatar/             # รูป Avatar
+    ├── badge/              # รูป เหรียญตรา
+    ├── banner/             # Banner
     ├── card/               # รูป Thumbnail แนะนำคอร์ส
     ├── icons/              # ไอคอน Social & Platform
     ├── Logo/               # โลโก้โปรเจกต์ & Screenshot
@@ -83,7 +85,7 @@ Project Courses Default/
    cd codexcraft-course-hub
    ```
 2. **เปิดไฟล์**
-   - เปิด `base.html` เพื่อเริ่มต้นใช้งาน
+   - เปิด `index.html` เพื่อเริ่มต้นใช้งาน
    - ใช้ Navbar เพื่อเข้าถึงคอร์สต่าง ๆ
 3. **ปรับแต่ง**
    - แก้โค้ด HTML/CSS ตามต้องการ
@@ -110,5 +112,5 @@ Project Courses Default/
 
 ## ✉️ Contact
 
-- GitHub: [YourUsername](https://github.com/YourUsername)
-- Email: youremail@example.com
+- GitHub: (https://github.com/escarabajox)
+- Email: woraphongjomgie@gmail.com
