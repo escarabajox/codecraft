@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    background: url('pics/signup/background/assets_task_01jsnyjadpec394tnzcqyjhsyr_1745567192_img_0.webp') center/cover no-repeat;
+    background: url('../pics/signup/background/star_bg.webp') center/cover no-repeat;
     background-color: #0d0c2c;
     min-height: 100vh;
     display: flex;
