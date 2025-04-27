@@ -112,5 +112,5 @@ Project Courses Default/
 
 ## ✉️ Contact
 
-- GitHub: (https://github.com/escarabajox)
+- GitHub: https://github.com/escarabajox
 - Email: woraphongjomgie@gmail.com
